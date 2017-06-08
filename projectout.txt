@@ -1,0 +1,26 @@
+for article
+score: 91.3743807840915
+
+positive words
+Felicity: 1.0
+Soaring to stardom along with him , Margo Felicity Brighetti , a luscious and curvaceously beguiling Italian starlet , turns in a creditable performance as an airplane mechanic . 
+Enjoy: 1.0
+The Fulton County Grand Jury said Friday an investigation of Atlanta's recent primary election produced `` no evidence '' that any irregularities took place . 
+Excellent: 1.0
+Excellent in their way , they lack the wide appeal of The Charles Men , and need not detain us here . 
+investigator: 1.0
+As a free-lance investigator , the fictional detective is responsible to no one but himself and his client . 
+bliss: 1.0
+He could imagine her at this minute , honeymooning in Nassau with what's-his-name , lounging on golden sands , looking forward to a life of unalloyed bliss . 
+
+negative words
+misled: -1.0
+but all too many observers have been misled by this fact into minimizing the degree of change which took place in the early first millennium . 
+abduction: -1.0
+The responsibility for scores of deaths , including the abduction and murder of Jesus Maria Galindez , a professor at Columbia University in New York , has been laid at his door . 
+misleads: -1.0
+The Fulton County Grand Jury said Friday an investigation of Atlanta's recent primary election produced `` no evidence '' that any irregularities took place . 
+henpecked: -1.0
+After all , the henpecked husband with his shrewish wife is a comic figure of long standing , in literature and on the stage , as Dr. Schillinger points out . 
+disrespect: -1.0
+A month later , in The Publick Spirit Of The Whigs , he used Steele's defense of Molesworth as evidence of his disrespect for the clergy , calling Steele's position an affront to the `` whole Convocation of Ireland '' . 
